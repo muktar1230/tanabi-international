@@ -15,4 +15,4 @@
 
 1. قم بتحميل المشروع أو فك الضغط عن الملف:
    ```bash
-   git clone [https://github.com/muktar1230/tanabi-international.git](https://github.com/muktar1230/tanabi-international.git)
+git clone https://github.com/muktar1230/tanabi-international.git
